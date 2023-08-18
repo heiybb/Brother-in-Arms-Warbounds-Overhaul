@@ -1,5 +1,5 @@
 # Brother-in-Arms-Warbounds-Overhaul
-This MOD add appropriate description into the Skill Tag Item, extremely helpful for people playing with other language and not super familiar with vanilla skills.
+This MOD adds appropriate description into the Skill Tag Item, extremely helpful for people playing with other language or not super familiar with vanilla skills.
 
 All descriptions all fetch from the vanilla skills file using scripts.(Please excuse if there is anything wrong)  
 
