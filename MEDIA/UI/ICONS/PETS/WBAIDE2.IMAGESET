@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "wbaide2" Imagefile="media/ui/icons/pets/wbaide2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="wbvanqspear_disabled" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="wbvanqbow_disabled" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="wbmiek_disabled" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="wbhiroim_disabled" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="wbnoname_disabled" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="wbponya_disabled" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="wbbrink_disabled" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="wbsyl_disabled" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="wbvanqspear_select" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="wbvanqbow_select" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="wbmiek_select" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="wbhiroim_select" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="wbnoname_select" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="wbponya_select" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="wbbrink_select" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="wbsyl_select" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

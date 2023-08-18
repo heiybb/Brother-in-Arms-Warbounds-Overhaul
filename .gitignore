@@ -1,0 +1,10 @@
+*.MOD
+*.BIN*
+*.RAW
+*.MPP
+*.BINDAT
+*.BINLAYOUT
+
+# For some reason, the Torchlight I mod file format files comes in
+*.ADM
+*.CMP

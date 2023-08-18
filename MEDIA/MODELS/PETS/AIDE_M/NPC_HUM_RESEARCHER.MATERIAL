@@ -1,0 +1,17 @@
+material npc_hum_researcher_01
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture npc_hum_researcher_01.png
+			}
+		}
+	}
+}

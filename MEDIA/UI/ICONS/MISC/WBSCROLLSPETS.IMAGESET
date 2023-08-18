@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "WBSCROLLSPETS" Imagefile="media/ui/icons/misc/WBSCROLLSPETS.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="wb_scroll_petalpaca" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petbadger" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petbigcat" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petbulldog" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petcat" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petchakawary" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petcrab" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petdeer" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_petfalcor" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petferret" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petflyer" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_pethawk" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petheadcrab" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petjackalbeast" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petmolebeast" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petowl" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_petpanda" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petspider" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_pettorso" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petwarbeast" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petwolf" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petkotic" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petblake" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_petpate" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_pet25" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_pet26" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_pet27" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_pet28" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_pet29" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_petmort" XPos="321" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_petdoff" XPos="385" YPos="193" Width="62" Height="62" />
+	<Image Name="wb_scroll_petunbind" XPos="449" YPos="193" Width="62" Height="62" />
+</Imageset>

@@ -1,0 +1,51 @@
+material Standard_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .4 .4 .4
+			texture_unit
+			{
+				texture polearm09.png
+			}
+		}
+	}
+}
+material Sage_Hair
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .4 .4 .4
+			texture_unit
+			{
+				texture sage_hair_01.png
+			}
+		}
+	}
+}
+material Sage
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .4 .4 .4
+			texture_unit
+			{
+				texture sage_01.png
+			}
+		}
+	}
+}

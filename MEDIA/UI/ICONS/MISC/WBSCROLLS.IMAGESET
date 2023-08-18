@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "WBSCROLLS" Imagefile="media/ui/icons/misc/WBSCROLLS.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="wb_scroll_arbf" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_arbm" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_berf" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_berm" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="wb_scroll_engf" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_engm" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_outf" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_outm" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="wb_scroll_mushaf" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_musham" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="wb_scroll_11" XPos="129" YPos="129" Width="32" Height="32" />
+	<Image Name="wb_scroll_12" XPos="163" YPos="129" Width="32" Height="32" />
+</Imageset>
